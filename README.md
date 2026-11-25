@@ -18,10 +18,6 @@ ln -s ../../.agents/skills/<name> ~/.claude/skills/<name>
 
 Not tested yet, because Codex is not installed on the machine this was set up on. A link from the Codex skills folder is expected to work the same way, but this is unverified.
 
-## Local only
-
-`.skill-lock.json` and `skills/herdr/` are gitignored and stay local.
-
 ## Skills
 
 - `grill-me`: A relentless interview to sharpen a plan or design, asked through the AskUserQuestion tool.
